@@ -71,7 +71,7 @@ while run ==1:
       print('2.Withdraw money')
       print('3.Check balance')
       selection=int(input("Enter desired option 1,2 or 3"))
-student_option = int(input('Enter your selection(1,2,or 3)')) 
+student_option = int(input('Enter your selection(1,2,or 3')) 
 if student_option==1:
     print('n\...processing a deposit transaction...')
     deposit_amount = int(input('Enter amount to be deposited')) 
